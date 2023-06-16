@@ -1,4 +1,4 @@
-# sh-ch02
+# SuperHi Project | Chapter 2
 Mini-site for a popup restaurant
 
 Refresher HTML/CSS Javascript course with Super Hi: https://www.superhi.com/courses/html-css-javascript-foundation
